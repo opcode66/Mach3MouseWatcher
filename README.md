@@ -1,0 +1,2 @@
+# Mach3MouseWatcher
+A C# Windows Forms Application that can be setup to monitor an installation of the popular CNC Milling software Mach3.  This application allows you to define a sections of the screen which trigger key commands that are sent to the running Mach3 application.  The application appears as an eye in your system tray.  Right clicking will reveal a popup menu that can be used to set the application, define the continuous section of the screen, terminate the application, as well as open a debuggin window.
