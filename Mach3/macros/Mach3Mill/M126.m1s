@@ -1,0 +1,17 @@
+x = GetXCoor()
+y = GetYCoor()
+z = GetZCoor()
+
+x = x - 20
+y = y + 100
+z = z + 3
+
+Code "G1 Z" & z & " F3000"
+While (IsMoving())
+     sleep (100)         
+Wend
+
+Code "G1 X" & x & " Y" & y & " F3000"
+While (IsMoving())
+     sleep (100)         
+Wend

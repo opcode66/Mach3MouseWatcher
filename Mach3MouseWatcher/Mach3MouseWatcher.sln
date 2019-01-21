@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mach3MouseWatcher", "Mach3MouseWatcher\Mach3MouseWatcher.csproj", "{FAD4449B-061B-4AAE-B21B-2687883C8482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD4449B-061B-4AAE-B21B-2687883C8482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD4449B-061B-4AAE-B21B-2687883C8482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD4449B-061B-4AAE-B21B-2687883C8482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD4449B-061B-4AAE-B21B-2687883C8482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72359ACA-6164-4A1A-BCF7-029C55061E04}
+	EndGlobalSection
+EndGlobal

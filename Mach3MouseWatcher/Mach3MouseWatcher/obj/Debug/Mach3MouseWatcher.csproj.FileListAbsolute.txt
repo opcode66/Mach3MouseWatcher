@@ -1,0 +1,10 @@
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\bin\Debug\Mach3MouseWatcher.exe
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\bin\Debug\Mach3MouseWatcher.pdb
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.Form1.resources
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.Properties.Resources.resources
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.csproj.GenerateResource.cache
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.exe
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.pdb
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\obj\Debug\Mach3MouseWatcher.AreaDefiner.resources
+C:\Users\Opcode66\Documents\Visual Studio 2017\Projects\Mach3MouseWatcher\Mach3MouseWatcher\bin\Debug\settings.txt

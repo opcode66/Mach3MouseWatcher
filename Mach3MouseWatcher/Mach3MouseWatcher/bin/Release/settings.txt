@@ -1,0 +1,1 @@
+X=100,Y=100,Width=200,Height=100,Application=
